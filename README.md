@@ -1,5 +1,5 @@
 # ESPN-CricInfo-WebScrapper
-<li> Tech used: Java, JavaScript, NodeJS, Puppetter
-<li> Created an automation script that takes topic name, question name and code as an input and submits that code in hackerrank.
-<li> Puppeteer and it's functions used to interact with the browser to automate it.
-<li> Aync await was used to await the tasks.
+<li> Tech used: HTML, CSS, JS, JSDOM, NodeJS
+<li> Build a web scrapper that scrapes details of Batsman of each team that played in a particular IPL season in a structured manner.
+<li> Request package is used to make parallel requests to the server and JSDOM is used to extract data out of it.
+<li> Aync await is used to await the tasks.
